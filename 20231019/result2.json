@@ -1,0 +1,32 @@
+[
+	{
+		"src": "222.33.1.23",
+		"Source IPv6 Address": "",
+		"shost": "",
+		"spt": "443",
+		"dst": "10.10.10.3",
+		"Destination IPv6 Address": "",
+		"dhost": "",
+		"dpt": "21"
+	},
+	{
+		"src": "192.24.44.44",
+		"Source IPv6 Address": "",
+		"shost": "",
+		"spt": "160",
+		"dst": "",
+		"Destination IPv6 Address": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+		"dhost": "",
+		"dpt": "443"
+	},
+	{
+		"src": "",
+		"Source IPv6 Address": "",
+		"shost": "cluster789",
+		"spt": "",
+		"dst": "",
+		"Destination IPv6 Address": "",
+		"dhost": "abc.com",
+		"dpt": ""
+	}
+]

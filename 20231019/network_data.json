@@ -1,0 +1,34 @@
+{
+	"network_traffic": {
+		"network-traffic--3951958d-ca23-5192-be88-5a4e373d57d8": {
+			"src_ref": "ipv4-addr--53fbc2f7-c1f2-5842-a1ad-c6c3c613995d",
+			"dst_ref": "ipv4-addr--bff6db45-23a0-5fa6-9b09-72e6ee35988e",
+			"src_port": 443,
+			"dst_port": 21
+		},
+		"network-traffic--f7dd8d38-e5b3-5bc1-a416-dcf8040d6973": {
+			"src_ref": "ipv4-addr--6ca7a96d-f107-57d1-a8ca-169f530db8a5",
+			"dst_ref": "ipv6-addr--85a85a8c-ee99-5722-946d-3c3a3270fc6f",
+			"src_port": 160,
+			"dst_port": 443
+		},
+		"network-traffic--2f0bb1c5-4b1f-5d0d-9980-d4f0fd20c6e6": {
+			"src_ref": "domain-name--83a85d64-4fd7-5b81-ba56-b4f703c45a07",
+			"dst_ref": "domain-name--0d5ef4f4-83c5-5e42-8380-5323f8407b2a",
+			"src_port": "",
+			"dst_port": ""
+		}
+	},
+	"ipv4_addr": {
+		"ipv4-addr--53fbc2f7-c1f2-5842-a1ad-c6c3c613995d": "222.33.1.23",
+		"ipv4-addr--bff6db45-23a0-5fa6-9b09-72e6ee35988e": "10.10.10.3",
+		"ipv4-addr--6ca7a96d-f107-57d1-a8ca-169f530db8a5": "192.24.44.44"
+	},
+	"ipv6_addr": {
+		"ipv6-addr--85a85a8c-ee99-5722-946d-3c3a3270fc6f": "2001:0db8:85a3:0000:0000:8a2e:0370:7334"
+	},
+	"domain_name": {
+		"domain-name--83a85d64-4fd7-5b81-ba56-b4f703c45a07": "cluster789",
+		"domain-name--0d5ef4f4-83c5-5e42-8380-5323f8407b2a": "abc.com"
+	}
+}
